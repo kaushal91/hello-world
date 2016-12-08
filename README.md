@@ -1,2 +1,2 @@
 # hello-world
-My name is Kaushal Patel.
+My name is Kaushal.
