@@ -1,3 +1,4 @@
 # hello-world
 My name is Kaushal.
-Please see the 'Udacity' repo for my work in machine learning.
+
+Please see the "Deep Learning with TensorFlow" repo for my work with machine learning.
